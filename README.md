@@ -9,7 +9,9 @@
 
 ## About
 A starter kit of Laravel 8 with the Vuejs Authentication that was available in previous versions.
-I created this to help users to follow some technical articles I've written.
+I created this to help users to follow some technical articles I've written on:
+1. [Dev.to](https://dev.to/mupati)
+2. [Medium](https://mupati.medium.com)
 
 ## Setup
 1. Clone or  download the repository<br/>
