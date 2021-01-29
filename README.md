@@ -46,7 +46,7 @@ I created this to help users to follow some technical articles I've written on:
    ```
    php artisan serve
    ```
-9.  Visit the url printed out on the terminal in your browser. Most likely it will be `http://127.0.0.1:8000`.
+9.  Visit the url printed out on the terminal in your browser. Most likely it will be http://127.0.0.1:8000.
 
 
 Continue your journey of building the NEXT BIG THING.
